@@ -1,0 +1,7 @@
+.lor{
+    display: grid;
+    grid-template-columns: 500px;
+    border-radius: 4px;
+    background: #f49b9b;
+    color: blue;
+}
